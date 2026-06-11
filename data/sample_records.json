@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "c-001",
+      "name": "Amara Osei",
+      "email": "amara.osei@brightlake.example.com",
+      "company": "Brightlake Analytics",
+      "title": "Operations Manager",
+      "status": "active",
+      "notes": "Interested in quarterly reporting automation."
+    },
+    {
+      "id": "c-002",
+      "name": "Daniel Reyes",
+      "email": "d.reyes@northwindlogistics.example.com",
+      "company": "Northwind Logistics",
+      "title": "Procurement Lead",
+      "status": "active",
+      "notes": "Requested a follow-up call about the pilot program."
+    },
+    {
+      "id": "c-003",
+      "name": "Priya Nair",
+      "email": "priya.nair@cobaltdesign.example.com",
+      "company": "Cobalt Design Studio",
+      "title": "Founder",
+      "status": "prospect",
+      "notes": "Met at the spring trade show. Sent intro materials."
+    },
+    {
+      "id": "c-004",
+      "name": "Tomasz Kowalski",
+      "email": "t.kowalski@ferrishealth.example.com",
+      "company": "Ferris Health Group",
+      "title": "IT Director",
+      "status": "inactive",
+      "notes": "Contract ended last year. May renew next budget cycle."
+    },
+    {
+      "id": "c-005",
+      "name": "Leila Haddad",
+      "email": "leila.haddad@orchardfinance.example.com",
+      "company": "Orchard Finance",
+      "title": "Client Success Manager",
+      "status": "active",
+      "notes": "Primary contact for the onboarding project."
+    }
+  ]
+}
