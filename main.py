@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 from src.agent import run_agent
 
 DEFAULT_TASK = (
-    "Find the contact named Dana Reyes and email her a meeting reminder "
+    "Find the contact named Daniel Reyes and email him a meeting reminder "
     "for Thursday."
 )
 
