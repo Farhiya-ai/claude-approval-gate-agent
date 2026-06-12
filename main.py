@@ -1,4 +1,4 @@
-"""Entry point for the claude-approval-gate-agent demo.
+﻿"""Entry point for the claude-approval-gate-agent demo.
 
 Loads environment variables, takes a task from the command line (or uses
 a default demo task), and runs the agent loop against the mock CRM tools.
@@ -18,7 +18,7 @@ DEFAULT_TASK = (
     "for Thursday."
 )
 
-DEFAULT_MODEL = "claude-3-5-sonnet-20241022"
+DEFAULT_MODEL = "claude-sonnet-4-6"
 
 
 def main() -> int:
